@@ -3,6 +3,7 @@
 * [関西Lispユーザ会 ウェブサイト](README.md)
 * [ABOUT US 関西Lispユーザ会について](about-us.md)
 * EVENT イベント情報
+    * [第6回Lispユーザ会](user-meeting180623.md)
     * [第５回Lispユーザ会](user-meeting180414.md)
     * [第4回Lispユーザ会](user-meeting180203.md)
     * [第3回Lispユーザ会](user-meeting171007.md)
